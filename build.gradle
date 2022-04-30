@@ -17,7 +17,6 @@ dependencies {
   testImplementation 'org.junit.jupiter:junit-jupiter'
 }
 
-Configure names of package and main class
 mainClassName = 'myapp.MyApp'
 startScripts.applicationName = 'myapp'
 
