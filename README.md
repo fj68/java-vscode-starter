@@ -21,4 +21,4 @@ Template repository for pair programming of Java with VSCode and Gradle
 ### Gradle
 
 - Maven central repository
-- `gradle run` to run `Main.main()` with given args
+- `gradle run` to run application with given args (configuration needed)
