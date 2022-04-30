@@ -1,0 +1,26 @@
+plugins {
+  id 'java'
+  id 'application'
+}
+
+compileJava.options.encoding = 'UTF-8'
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  // Write dependant modules here e.g.
+  // implementation 'groupID:artifactID:version'
+}
+
+// Configure names of package and main class
+// mainClassName = 'mypackage.Main'
+// startScripts.applicationName = 'myapplication'
+
+run {
+  if (project.hasProperty('args')) {
+    args project.args.split('\\s+')
+    standardInput = System.in
+  }
+}
