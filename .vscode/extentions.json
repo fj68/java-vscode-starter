@@ -5,6 +5,6 @@
     "vscjava.vscode-java-pack",
     "vscjava.vscode-gradle",
     "shengchen.vscode-checkstyle",
-    "SonarSource.sonarlint-vscode",
-  ],
+    "SonarSource.sonarlint-vscode"
+  ]
 }
