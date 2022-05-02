@@ -13,6 +13,7 @@ Starter template for pair programming in Java with VSCode and Gradle
 - VS Code extentions
   - [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
   - [Live Share Extention Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [Java Extention Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
   - [Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
   - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
