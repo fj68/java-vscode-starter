@@ -2,6 +2,7 @@
   "recommendations": [
     "MS-vsliveshare.vsliveshare",
     "MS-CEINTL.vscode-language-pack-ja",
+    "eamodio.gitlens",
     "vscjava.vscode-java-pack",
     "vscjava.vscode-gradle",
     "shengchen.vscode-checkstyle",
