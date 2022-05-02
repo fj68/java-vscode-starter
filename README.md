@@ -1,5 +1,5 @@
-# java-pair-programming-starter
-Starter template for pair programming in Java with VSCode and Gradle
+# java-vscode-starter
+Starter template for Java with VSCode
 
 ## What's necessary
 
@@ -12,7 +12,6 @@ Starter template for pair programming in Java with VSCode and Gradle
 
 - VS Code extentions
   - [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
-  - [Live Share Extention Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [Java Extention Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
   - [Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
@@ -25,7 +24,7 @@ Starter template for pair programming in Java with VSCode and Gradle
 
 ## Installation
 
-1. Click '[Use this template](https://github.com/fj68/java-pair-programming-starter/generate)' button on this page to create new repository
+1. Click '[Use this template](https://github.com/fj68/java-vscode-starter/generate)' button on this page to create new repository
 2. `git clone git@github.com/your-name/your-repository.git`
 3. `cd your-repository`
 4. Open `your-repository` in VS Code
