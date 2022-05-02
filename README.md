@@ -29,6 +29,7 @@ Starter template for Java with VSCode
 3. `cd your-repository`
 4. Open `your-repository` in VS Code
 5. Install recommended extentions
+6. Don't forget to change author name in [LICENSE](./LICENSE) 😜
 
 ## How to
 
