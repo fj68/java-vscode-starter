@@ -27,8 +27,14 @@ run {
   }
 }
 
+javadoc {
+  destinationDir = file("docs/javadoc")
+}
+
 test {
   useJUnitPlatform()
+  
+  reports.html.destination = file("docs/test-reports")
   
   testLogging {
     showStandardStreams true
